@@ -4,5 +4,6 @@
 def main():
     print("main function has been called")
 
+# this is a comment
 if __name__ == "__main__":
     main()
