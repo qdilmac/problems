@@ -4,3 +4,6 @@
 # Example:
 # Input: start = 100, end = 150
 # Output: [101, 111, 121, 131, 141]
+
+if __name__ == "__main__":
+    pass
